@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://voxa83-sketch.github.io/skills-github-pages/epg.xml"
-#EXTINF:-1 tvg-id="1tv.ru",Первый канал
-http://example.com/stream1.m3u8
+#EXTM3U url-tvg="https://voxa83-sketch.github.io/skills-github-pages/epg.xml.gz"
 
 #EXTINF:-1 group-title="Евразия-Стар" ,ТЕХНО 24
 http://87.76.32.36:9106/udp/238.1.1.88:1234
